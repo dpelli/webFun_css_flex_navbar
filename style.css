@@ -1,0 +1,38 @@
+#center-box{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+}
+#center-item{
+    background-color: #fae5b5;
+    height: 100px;
+    width: 100px;
+}
+#navbar{
+    background-color: #6495ed;
+    height: 75px;
+    display: flex;
+    font-family: "Montserrat", sans-serif;
+    align-items: center;
+    color: #e1ebfb;
+    justify-content: space-around;
+}
+#logo{
+    display: flex;
+    align-items: center;
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+li{
+    display: inline;
+}
+a{
+    text-decoration: none;  
+    color: #e1ebfb;  
+    font-family: "Montserrat", sans-serif;
+    font-size: 0.75em;
+}
